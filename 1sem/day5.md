@@ -20,7 +20,7 @@
 
 ***
 
-- `Все примеры НАМ` — [кликни здесь](/1sem/markov_examples.md)
+- `Все примеры НАМ` — [кликни здесь](https://github.com/mai-806/fund-wiki/blob/main/1sem/markov_examples.md)
 
 ***
 
@@ -31,8 +31,8 @@
 ***
 
 **Термины с лабораторки:**
-- [Обратный код](/1sem/Обратный%20код.md)
-- [Дополнительный код](/1sem/Дополнительный%20код.md)
+- [Обратный код](https://github.com/mai-806/fund-wiki/blob/main/1sem/Обратный%20код.md)
+- [Дополнительный код](https://github.com/mai-806/fund-wiki/blob/main/1sem/Дополнительный%20код.md)
 
 ***
 
@@ -74,7 +74,7 @@
 ![image](https://user-images.githubusercontent.com/113284506/210638952-40660f07-2766-488c-9ca7-bc20362fb3a8.png)
 
 
-- `Все примеры НАМ` — [кликни здесь](/1sem/markov_examples.md)
+- `Все примеры НАМ` — [кликни здесь](https://github.com/mai-806/fund-wiki/blob/main/1sem/markov_examples.md)
 
 ***
 
@@ -114,7 +114,7 @@
 
 > © Марков - ортогональная альтернативная алгоритмическая схема.
 
-- Выжимка из книги "Теория алгорифмов" Маркова — [ознакомиться](/1sem/markov_algorifm.md)
+- Выжимка из книги "Теория алгорифмов" Маркова — [ознакомиться](https://github.com/mai-806/fund-wiki/blob/main/1sem/markov_algorifm.md)
 
 > - Напиши диаграмму своей задачи в Маркове 
 
