@@ -1,6 +1,8 @@
 # 2 день. Системы счисления, Unix
 
-[День 1. Информация](https://mai-806.github.io/fund-wiki/1sem/day1.html) <--> [День 2. Системы счисления, Unix](https://mai-806.github.io/fund-wiki/1sem/day2.html) <--> [День 3. Обработка информации](https://mai-806.github.io/fund-wiki/1sem/day3.html) <--> [День 4. Дискретные сообщения](https://mai-806.github.io/fund-wiki/1sem/day4_1.html)
+- [d1. Информация](https://mai-806.github.io/fund-wiki/1sem/day1.html) <--> [d2. Системы счисления](https://mai-806.github.io/fund-wiki/1sem/day2.html) <--> [d3. Обработка информации](https://mai-806.github.io/fund-wiki/1sem/day3.html) <--> [d4. Дискретные сообщения](https://mai-806.github.io/fund-wiki/1sem/day4_1.html)
+
+- [d4. Формальный алгоритм](https://mai-806.github.io/fund-wiki/1sem/day4_2.html) <--> [d5. НАМ, т. Шеннона](https://mai-806.github.io/fund-wiki/1sem/day5.html) <--> [d6. Сочетания алгоритмов](https://mai-806.github.io/fund-wiki/1sem/day6.html) <--> [d7. УМТ](https://mai-806.github.io/fund-wiki/1sem/day7.html) <--> [d8. Машина фон Неймана](https://mai-806.github.io/fund-wiki/1sem/day8.html)
 
 ***
 
@@ -253,5 +255,8 @@ kill - уничтожение процесса (только если он тв�
 
 ***
 
-[День 1. Информация](https://mai-806.github.io/fund-wiki/1sem/day1.html) <--> [День 2. Системы счисления, Unix](https://mai-806.github.io/fund-wiki/1sem/day2.html) <--> [День 3. Обработка информации](https://mai-806.github.io/fund-wiki/1sem/day3.html) <--> [День 4. Дискретные сообщения](https://mai-806.github.io/fund-wiki/1sem/day4_1.html)
+- [d1. Информация](https://mai-806.github.io/fund-wiki/1sem/day1.html) <--> [d2. Системы счисления](https://mai-806.github.io/fund-wiki/1sem/day2.html) <--> [d3. Обработка информации](https://mai-806.github.io/fund-wiki/1sem/day3.html) <--> [d4. Дискретные сообщения](https://mai-806.github.io/fund-wiki/1sem/day4_1.html)
+
+- [d4. Формальный алгоритм](https://mai-806.github.io/fund-wiki/1sem/day4_2.html) <--> [d5. НАМ, т. Шеннона](https://mai-806.github.io/fund-wiki/1sem/day5.html) <--> [d6. Сочетания алгоритмов](https://mai-806.github.io/fund-wiki/1sem/day6.html) <--> [d7. УМТ](https://mai-806.github.io/fund-wiki/1sem/day7.html) <--> [d8. Машина фон Неймана](https://mai-806.github.io/fund-wiki/1sem/day8.html)
+
 
