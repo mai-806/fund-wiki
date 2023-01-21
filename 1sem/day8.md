@@ -1,5 +1,11 @@
 # 8 день. Машина фон Неймана
 
+- [d1. Информация](https://mai-806.github.io/fund-wiki/1sem/day1.html) <--> [d2. Системы счисления](https://mai-806.github.io/fund-wiki/1sem/day2.html) <--> [d3. Обработка информации](https://mai-806.github.io/fund-wiki/1sem/day3.html) <--> [d4. Дискретные сообщения](https://mai-806.github.io/fund-wiki/1sem/day4_1.html)
+
+- [d4. Формальный алгоритм](https://mai-806.github.io/fund-wiki/1sem/day4_2.html) <--> [d5. НАМ, т. Шеннона](https://mai-806.github.io/fund-wiki/1sem/day5.html) <--> [d6. Сочетания алгоритмов](https://mai-806.github.io/fund-wiki/1sem/day6.html) <--> [d7. УМТ](https://mai-806.github.io/fund-wiki/1sem/day7.html) <--> [d8. Машина фон Неймана](https://mai-806.github.io/fund-wiki/1sem/day8.html)
+
+***
+
 ## Словарик программиста:
 
 - `Нормированность вычислений` означает, что в процессе выполнения программы часть ленты остаётся пустой.
@@ -180,3 +186,7 @@
 Современной машиной фон Неймана можно считать языки программирования высокого уровня.
 
 ***
+
+- [d1. Информация](https://mai-806.github.io/fund-wiki/1sem/day1.html) <--> [d2. Системы счисления](https://mai-806.github.io/fund-wiki/1sem/day2.html) <--> [d3. Обработка информации](https://mai-806.github.io/fund-wiki/1sem/day3.html) <--> [d4. Дискретные сообщения](https://mai-806.github.io/fund-wiki/1sem/day4_1.html)
+
+- [d4. Формальный алгоритм](https://mai-806.github.io/fund-wiki/1sem/day4_2.html) <--> [d5. НАМ, т. Шеннона](https://mai-806.github.io/fund-wiki/1sem/day5.html) <--> [d6. Сочетания алгоритмов](https://mai-806.github.io/fund-wiki/1sem/day6.html) <--> [d7. УМТ](https://mai-806.github.io/fund-wiki/1sem/day7.html) <--> [d8. Машина фон Неймана](https://mai-806.github.io/fund-wiki/1sem/day8.html)
