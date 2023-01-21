@@ -1,5 +1,9 @@
 ## Январь. Программирование
 
+- [d10. Нотация Дейкстры](https://mai-806.github.io/fund-wiki/1sem/day10.html) <--> [d11. Типы данных](https://mai-806.github.io/fund-wiki/1sem/day11.html) <--> [d12. Файлы, блоки](https://mai-806.github.io/fund-wiki/1sem/day12.html) <--> [d13. Критика фон Неймана, рекурсия](https://mai-806.github.io/fund-wiki/1sem/day13.html)
+
+***
+
 ## Вопросы из модулей:
 
 * (3) Машины фон Неймана 
