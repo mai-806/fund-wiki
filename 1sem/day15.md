@@ -1,5 +1,11 @@
 # 15 день. Архитектуры компьютера. Вопросы 36-74. 
 
+- [d9. Архитектуры (1-12)](https://mai-806.github.io/fund-wiki/1sem/day9.html) <--> [d14. Архитектуры (13-35)](https://mai-806.github.io/fund-wiki/1sem/day14.html) <--> [d15. Архитектуры (36-74)](https://mai-806.github.io/fund-wiki/1sem/day15.html)
+
+- [d10. Нотация Дейкстры](https://mai-806.github.io/fund-wiki/1sem/day10.html) <--> [d11. Типы данных](https://mai-806.github.io/fund-wiki/1sem/day11.html) <--> [d12. Файлы, блоки](https://mai-806.github.io/fund-wiki/1sem/day12.html) <--> [d13. Критика фон Неймана, рекурсия](https://mai-806.github.io/fund-wiki/1sem/day13.html)
+
+***
+
 ## Статья сырая
 
 ### To do:
@@ -177,4 +183,8 @@ SCASI
 
 DLP - проекторы с ярким изображением. (?)
 
+***
 
+- [d9. Архитектуры (1-12)](https://mai-806.github.io/fund-wiki/1sem/day9.html) <--> [d14. Архитектуры (13-35)](https://mai-806.github.io/fund-wiki/1sem/day14.html) <--> [d15. Архитектуры (36-74)](https://mai-806.github.io/fund-wiki/1sem/day15.html)
+
+- [d10. Нотация Дейкстры](https://mai-806.github.io/fund-wiki/1sem/day10.html) <--> [d11. Типы данных](https://mai-806.github.io/fund-wiki/1sem/day11.html) <--> [d12. Файлы, блоки](https://mai-806.github.io/fund-wiki/1sem/day12.html) <--> [d13. Критика фон Неймана, рекурсия](https://mai-806.github.io/fund-wiki/1sem/day13.html)
