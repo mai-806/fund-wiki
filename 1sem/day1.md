@@ -1,5 +1,9 @@
 # 1 день. Информация, сообщение
 
+[День 1. Информация](https://mai-806.github.io/fund-wiki/1sem/day1.html) <--> [День 2. Системы счисления, Unix](https://mai-806.github.io/fund-wiki/1sem/day2.html) <--> [День 3. Обработка информации](https://mai-806.github.io/fund-wiki/1sem/day3.html) <--> [День 4. Дискретные сообщения](https://mai-806.github.io/fund-wiki/1sem/day4_1.html)
+
+***
+
 ## Словарик программиста:
 
 **Термины с лекций**:
@@ -181,3 +185,6 @@
 
 2) `Одностороннее шифрование` используется для хранения паролей (в Unix). При этом используется неоднозначная (например, периодическая) функция, усложняющая дешифровку.
 
+***
+
+[День 1. Информация](https://mai-806.github.io/fund-wiki/1sem/day1.html) <--> [День 2. Системы счисления, Unix](https://mai-806.github.io/fund-wiki/1sem/day2.html) <--> [День 3. Обработка информации](https://mai-806.github.io/fund-wiki/1sem/day3.html) <--> [День 4. Дискретные сообщения](https://mai-806.github.io/fund-wiki/1sem/day4_1.html)
