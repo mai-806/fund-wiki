@@ -1,5 +1,11 @@
 # День 11. Типы данных
 
+- [d10. Нотация Дейкстры](https://mai-806.github.io/fund-wiki/1sem/day10.html) <--> [d11. Типы данных](https://mai-806.github.io/fund-wiki/1sem/day11.html) <--> [d12. Файлы, блоки](https://mai-806.github.io/fund-wiki/1sem/day12.html) <--> [d13. Критика фон Неймана, рекурсия](https://mai-806.github.io/fund-wiki/1sem/day13.html)
+
+- [d9. Архитектуры (1-12)](https://mai-806.github.io/fund-wiki/1sem/day9.html) <--> [d14. Архитектуры (13-35)](https://mai-806.github.io/fund-wiki/1sem/day14.html) <--> [d15. Архитектуры (36-74)](https://mai-806.github.io/fund-wiki/1sem/day15.html)
+
+***
+
 ## Словарик программиста:
 
 - `Рациональное число` представимо в виде отношения целого и натурального.
@@ -164,4 +170,8 @@
 
 ![image](https://user-images.githubusercontent.com/113284506/211211733-9d3c52ad-4f6f-4ad1-ae0c-09c9f6c2d674.png)
 
+***
 
+- [d10. Нотация Дейкстры](https://mai-806.github.io/fund-wiki/1sem/day10.html) <--> [d11. Типы данных](https://mai-806.github.io/fund-wiki/1sem/day11.html) <--> [d12. Файлы, блоки](https://mai-806.github.io/fund-wiki/1sem/day12.html) <--> [d13. Критика фон Неймана, рекурсия](https://mai-806.github.io/fund-wiki/1sem/day13.html)
+
+- [d9. Архитектуры (1-12)](https://mai-806.github.io/fund-wiki/1sem/day9.html) <--> [d14. Архитектуры (13-35)](https://mai-806.github.io/fund-wiki/1sem/day14.html) <--> [d15. Архитектуры (36-74)](https://mai-806.github.io/fund-wiki/1sem/day15.html)
