@@ -1,5 +1,9 @@
 # Январь. Архитектура компьютера
 
+- [d9. Архитектура (1-12)](https://mai-806.github.io/fund-wiki/1sem/day9.html) <--> [d14. Архитектура (13-35)](https://mai-806.github.io/fund-wiki/1sem/day14.html) <--> [d15. Архитектура (36-74)](https://mai-806.github.io/fund-wiki/1sem/day15.html)
+
+***
+
 ## Вопросы из модулей:
 
 * (5) Архитектура компьютера (железки)
