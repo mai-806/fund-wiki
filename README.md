@@ -32,8 +32,9 @@
 Inspired by V.E. Zaytcev
 ```
 
-Для обратной связи [![Телеграмм](https://img.shields.io/badge/Пиши-В%20Telegram-0088cc)](https://t.me/hukumkass)
+Для обратной связи - [![Телеграмм](https://img.shields.io/badge/Пиши-В%20Telegram-0088cc)](https://t.me/hukumkass)
 
+Соавтор вики - [![Телеграммм](https://img.shields.io/badge/Мне-Тоже%20пиши-0088cc)](https://t.me/yashelter)
 
 ***
 
