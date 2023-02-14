@@ -32,7 +32,7 @@
 Inspired by V.E. Zaytcev
 ```
 
-Для обратной связи заполни небольшую [гугл-форму](https://forms.gle/pJZhCCbtTUafsHB2A)
+Для обратной связи заполни небольшую [гугл-форму](https://forms.gle/pJZhCCbtTUafsHB2A) (анонимно)
 
 Над вики работали:
 
