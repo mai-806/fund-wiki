@@ -3,12 +3,13 @@
 ![image](https://user-images.githubusercontent.com/113284506/210866918-eb4c6f09-25e2-411f-833c-2d9ff4cf6181.png)
 
 
+## О содержании
+
 - | [1 семестр](#lections1) | <--> | [1 экзамен](#exam1) |
 
 - | [2 семестр](#lections2) | <--> | [2 экзамен](#exam2) |
 
-
-## О содержании
+***
 
 Это вики по лекциям 1-го и 2-го семестров курсов информатики в МАИ. 
 
@@ -25,11 +26,8 @@
 ## Обратная связь
 Можно заполнить небольшую [гугл-форму](https://forms.gle/pJZhCCbtTUafsHB2A) (анонимно)
 
-Над вики работали:
 
 - Создатель — [![Телеграмм](https://img.shields.io/badge/Пиши-В%20Telegram-0088cc)](https://t.me/hukumkass)
-
-- Соавтор — [![Телеграммм](https://img.shields.io/badge/Мне-Тоже%20пиши-0088cc)](https://t.me/yashelter)
 
 
 ```yaml
